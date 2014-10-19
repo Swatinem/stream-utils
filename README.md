@@ -66,3 +66,8 @@ while (true) {
 	var e = yield* take(moves);
 }
 ```
+
+# LICENSE
+
+GPLv3
+
